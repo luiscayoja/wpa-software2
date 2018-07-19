@@ -1,0 +1,64 @@
+{
+  "name": "C&Z | Dev",
+  "short_name": "C&Z",
+  "description": "Bienvenidos a nuestra página web, donde podrás apreciar nuestros trabajos, y podrás comunicarte con nosotros",
+  "background_color": "#2B2B2B",
+  "theme_color": "#1d6487",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "./?utm_source=web_app_manifest",
+  "scope": "./",
+  "lang": "es-ES",
+  "icons": [
+    {
+      "src": "./img/300x300.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/300x300.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/300x300.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/128x128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/64x64.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    }
+  ]
+}
